@@ -1,0 +1,28 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#btn_prof{
+	
+	-fx-background-image: url("/Images/enseignants.jpg")  ;
+	-fx-background-size:cover;
+}
+#btn_adm{
+	
+	-fx-background-image: url("/Images/gggg.jpg")  ;
+	-fx-background-size:cover;
+}
+#btn_elev{
+	
+	-fx-background-image: url("/Images/3.jpg")  ;
+	-fx-background-size:cover;
+}
+#btn_par{
+	-fx-background-image: url("/Images/pp.jpg")  ;
+	-fx-background-size:cover;
+	
+	
+}
+#btn{
+	-fx-background-color: none;
+}
+#Close{
+    -fx-cursor: hand;
+}
